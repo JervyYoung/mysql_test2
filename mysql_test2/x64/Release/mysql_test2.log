@@ -1,7 +1,2 @@
-﻿  Source.cpp
-  Generating code
-  1 of 847 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    19 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  mysql_test2.vcxproj -> C:\Users\YJH\documents\visual studio 2015\Projects\mysql_test2\x64\Release\mysql_test2.exe
+﻿  mysql_test2.vcxproj -> E:\workspace2\mysql_test2\x64\Release\mysql_test2.exe
+  mysql_test2.vcxproj -> E:\workspace2\mysql_test2\x64\Release\mysql_test2.pdb (Full PDB)
